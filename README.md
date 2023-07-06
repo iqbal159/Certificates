@@ -22,7 +22,7 @@ Programming Language:
 Data Visualization:
   - [Share Data Through the Art of Visualization using Tableau](https://github.com/iqbal159/Certificates/blob/ec50d207e7914e480381c7483cb5b5ebb1102d68/Week6-Data%20Visualization%20(Tableau).pdf) by Coursera
         
-Spreadsheet and Structured Query Language(SQL):
+<!--Spreadsheet and Structured Query Language(SQL): -->
 
 Others:
   - [Creating a Respectful Workplace](https://github.com/iqbal159/Certificates/blob/ec50d207e7914e480381c7483cb5b5ebb1102d68/Creating%20Respectful%20Workplace%20Course.pdf) by Aptiv
